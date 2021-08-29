@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Birham Space'
+theme = "archie"
+[permalinks]
+    blog =":slug"
+[params]
+    Description = "Robby Birham Space"
