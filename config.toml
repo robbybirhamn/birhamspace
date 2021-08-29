@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://birham.space/'
 languageCode = 'en-us'
 title = 'Birham Space'
 theme = "archie"
