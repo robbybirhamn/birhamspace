@@ -6,3 +6,31 @@ theme = "archie"
     blog =":slug"
 [params]
     Description = "Robby Birham Space"
+    mode="auto" # color-mode → light,dark or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+
+[[params.social]]
+    name = "Twitter"
+    icon = "twitter"
+    url = "https://twitter.com/birham_/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About Me"
+    url = "/about"
+    weight = 2
+
+[[menu.main]]
+    name = "Portofolio"
+    url = "/portofolio]"
+    weight = 3
+
+copyright = "© Robby Birham"
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
