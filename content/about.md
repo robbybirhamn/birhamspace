@@ -9,3 +9,5 @@ Dari kecil saya tertarik dengan dunia teknologi. Berawal dari komputer yang dibe
 Mulai dari mengintip dari jendela hingga duduk mengopresikan komputer, sampai saat ini saya masih bangga dengan kegigihan dan rasa penasaran saya tentang dunia teknologi.
 
 Saat ini saya sedang melanjutkan proses studi saya dan bekerja sebagai Web Developer di Seven Media Technology. Memulai karir di Dunia Programming pada tahun 2018 memberikan pengalaman yang luas bagi saya. Bukan hanya ilmu tapi relasi dan pengalaman yang membuat saya menyukai dunia ini.
+
+Hai
